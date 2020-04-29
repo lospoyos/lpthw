@@ -1,6 +1,6 @@
 name = 'Sahid Islas'
 age = 31 # not a lie
-height = 1.69 # cm
+height = 169 # cm
 weight = 82 # kg
 eyes = 'Brown'
 teeth = 'White'
